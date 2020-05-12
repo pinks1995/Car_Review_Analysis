@@ -15,6 +15,7 @@ We used <a href="https://www.kaggle.com/ankkur13/edmundsconsumer-car-ratings-and
 ### Environment Setup
 1. Python 3
 2. Basic Libraries:
+
   a. numpy
   b. pandas
   c. string
@@ -25,7 +26,9 @@ We used <a href="https://www.kaggle.com/ankkur13/edmundsconsumer-car-ratings-and
   h. cufflinks
   i. os
   j. pprint
+  
  3. Language Model Libraries:
+ 
   a. textblob
   b. vaderSentiment
   c. nltk
