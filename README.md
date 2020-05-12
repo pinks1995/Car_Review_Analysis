@@ -12,6 +12,35 @@ We used <a href="https://www.kaggle.com/ankkur13/edmundsconsumer-car-ratings-and
 1. 62 major car brand
 2. Columns: Id, Review Date, Author Name, Vehicle Title, Review Title, Review, Rating
 
+### Environment Setup
+1. Python 3
+2. Basic Libraries:
+  a. numpy
+  b. pandas
+  c. string
+  d. matplotlib
+  e. seaborn
+  f. re
+  g. glob
+  h. cufflinks
+  i. os
+  j. pprint
+ 3. Language Model Libraries:
+  a. textblob
+  b. vaderSentiment
+  c. nltk
+    i. nltk.download('wordnet')
+    ii. nltk.download('stopwords')
+  d. sklearn
+  e. spacy
+    i. python -m spacy download en_core_web_sm
+  f. tqdm
+  g. rank_bm25
+  h. pyLDAvis
+  i. gensim
+  
+
+
 ### BM25 Review Search
 
 ### Review Sentiment Analysis
