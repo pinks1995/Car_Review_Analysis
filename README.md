@@ -25,7 +25,7 @@ We used <a href="https://www.kaggle.com/ankkur13/edmundsconsumer-car-ratings-and
   * cufflinks
   * os
   * pprint
- * Language Model Libraries:
+* Language Model Libraries:
   * textblob
   * vaderSentiment
   * nltk
