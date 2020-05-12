@@ -13,8 +13,8 @@ We used <a href="https://www.kaggle.com/ankkur13/edmundsconsumer-car-ratings-and
 2. Columns: Id, Review Date, Author Name, Vehicle Title, Review Title, Review, Rating
 
 ### Environment Setup
-1. Python 3
-2. Basic Libraries:
+* Python 3
+* Basic Libraries:
   * numpy
   * pandas
   * string
@@ -26,7 +26,7 @@ We used <a href="https://www.kaggle.com/ankkur13/edmundsconsumer-car-ratings-and
   * os
   * pprint
   
- 3. Language Model Libraries:
+ * Language Model Libraries:
   * textblob
   * vaderSentiment
   * nltk
