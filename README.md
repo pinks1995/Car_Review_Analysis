@@ -40,7 +40,6 @@ We used <a href="https://www.kaggle.com/ankkur13/edmundsconsumer-car-ratings-and
   * gensim
   
 
-
 ### BM25 Review Search
 
 ### Review Sentiment Analysis
