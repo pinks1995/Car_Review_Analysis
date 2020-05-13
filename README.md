@@ -41,6 +41,7 @@ We used <a href="https://www.kaggle.com/ankkur13/edmundsconsumer-car-ratings-and
   
 
 ### BM25 Review Search
+A search engine using BM25 that will fetch the most relevant reviews to the given user query.
 
 ### Review Sentiment Analysis
 Review Text is a free content that allows users to express as much as they want. Rating is a quantitative measure of the goodness of the product or service. But does the rating define the quality the same way as much as the review text does?
